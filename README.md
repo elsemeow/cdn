@@ -1,3 +1,3 @@
 # CDN
 
-Static resources for my CodePen projects.
+Static resources for my CodePen projects
