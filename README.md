@@ -1,4 +1,3 @@
-## Abbreviations
+# CDN
 
-- **img** = images;
-- **cdpn** = codepen.
+Static resources for my CodePen projects.
